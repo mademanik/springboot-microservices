@@ -1,0 +1,10 @@
+com\blimanik\productservice\ProductServiceApplication.class
+com\blimanik\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\blimanik\productservice\controller\ProductController.class
+com\blimanik\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\blimanik\productservice\repository\ProductRepository.class
+com\blimanik\productservice\dto\ProductRequest.class
+com\blimanik\productservice\dto\ProductResponse.class
+com\blimanik\productservice\model\Product.class
+com\blimanik\productservice\service\ProductService.class
+com\blimanik\productservice\model\Product$ProductBuilder.class

@@ -1,0 +1,12 @@
+com\blimanik\orderservice\service\OrderService.class
+com\blimanik\orderservice\repository\OrderRepository.class
+com\blimanik\orderservice\model\Order.class
+com\blimanik\orderservice\dto\OrderRequest.class
+com\blimanik\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\blimanik\orderservice\config\WebClientConfig.class
+com\blimanik\orderservice\dto\InventoryResponse.class
+com\blimanik\orderservice\OrderServiceApplication.class
+com\blimanik\orderservice\model\OrderLineItems.class
+com\blimanik\orderservice\dto\OrderLineItemsDto.class
+com\blimanik\orderservice\event\OrderPlacedEvent.class
+com\blimanik\orderservice\controller\OrderController.class

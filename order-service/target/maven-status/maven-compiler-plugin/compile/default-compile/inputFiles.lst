@@ -1,0 +1,11 @@
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\dto\OrderRequest.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\repository\OrderRepository.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\config\WebClientConfig.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\event\OrderPlacedEvent.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\model\Order.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\model\OrderLineItems.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\dto\InventoryResponse.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\dto\OrderLineItemsDto.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\service\OrderService.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\controller\OrderController.java
+C:\Users\manik\IdeaProjects\microservices-new\order-service\src\main\java\com\blimanik\orderservice\OrderServiceApplication.java

@@ -1,0 +1,7 @@
+com\blimanik\inventoryservice\dao\InventoryResponse.class
+com\blimanik\inventoryservice\controller\InventoryController.class
+com\blimanik\inventoryservice\dao\InventoryResponse$InventoryResponseBuilder.class
+com\blimanik\inventoryservice\service\InventoryService.class
+com\blimanik\inventoryservice\repository\InventoryRepository.class
+com\blimanik\inventoryservice\InventoryServiceApplication.class
+com\blimanik\inventoryservice\model\Inventory.class
